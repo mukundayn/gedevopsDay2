@@ -1,1 +1,1 @@
-welcome to day2git a
+welcome to day2git remote
